@@ -1,0 +1,240 @@
+#EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, https://iptvx.one/epg/epg.xml.gz" m3uautoload=1
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый (HD)
+http://194.143.148.28:8080/PerviyHD/index.m3u8
+#EXTINF:-1 tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png" group-title="Общественные",360° (HD)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Общественные",RTД (HD)
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="ТВ Украины" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png",FREEДОМ [1280x720]
+http://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 group-title="УКРАИНА",Белсат HD
+https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:-1 ,Relax
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,RU TV
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 ,Sochi 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1 ,TRK 555 (720p)
+http://trk555.tv:8888/live
+#EXTINF:-1 ,TV BRICS Russian (1080p)
+http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 ,TVOE TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 ,Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 ,Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 ,Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 ,Кинопремьера HD
+http://45.159.74.13/Kinopremera/index.m3u8
+#EXTINF:-1 ,Легендарный 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:-1 ,Мир 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 ,Мир Белагорья (720p) [Geo-blocked]
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/NqHla2V.png",Amedia 2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 group-title="Movies;Series" tvg-logo="https://i.imgur.com/UUjehw9.png",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/nr1Y67Z.png",Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ZMsyjSr.png",Viju TV1000
+http://82.209.197.187:8080/udp/239.0.100.141:1234
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Meak2y4.png",viju Русское кино
+http://82.209.197.187:8080/udp/239.0.100.82:1234
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/rzPQ9Iz.png",Беларусь 5 Интернет (1080p) [Not 24/7]
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/xDVcDOc.png",Индия
+https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/nNjMyAq.png",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/rEo7nR1.png",Первый Музыкальный Канал Россия HD (1080p)
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/On6ggLe.png",Перец
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",Россия 1 [1920x1080]
+http://45.159.74.13/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал +? [720x576]
+http://45.159.74.13/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС [1920x1080]
+http://45.159.74.13/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/0Tu5lte.png",Рен ТВ International [720x576]
+http://stream01.vnet.am/RenTv/index.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/4PAcpfM.png",Звезда [1920x1080]
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница! International [720x576]
+http://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр [854x480]
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общий" tvg-logo="https://i.imgur.com/Murt4NK.png",МИР [1920x1080]
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://i.imgur.com/CwhmJby.png",РБК [1920x1080]
+http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="https://i.imgur.com/8t9mdg9.png",Euronews [1280x720]
+http://m3u8.ott.blue/watch/7045/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/2Hyii2W.png",Timeless Dizi Channel [720x576]
+http://194.158.222.36:6086
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png",Animal Planet [1920x1080]
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",Discovery Channel [1920x1080]
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery [1440x1080]
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic [720x576]
+http://45.159.74.13/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild [720x576]
+http://45.159.74.13/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV [720x576]
+http://195.26.83.96:7007/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия [720x576]
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь [720x576]
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобёр [720x576]
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU TV [1920x1080]
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/PXGqyLn.png",V2BEAT TV [1280x720]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо ТВ 24 [720x576]
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 group-title="Разное" tvg-logo="https://i.imgur.com/q3JCAC3.png",8 канал International [720x576]
+http://v4.proofix.ru/8tv-europe/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Разное",Смотрим (кино и сериалы) [1024x576]
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",Толк HD [1280x720]
+http://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://epgx.site/p/tv-brics.png",TV BRICS (HD)
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://epgx.site/p/belarus1hd.png",Беларусь 1 (EDTV 576p)
+http://194.158.222.36:6101
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://epgx.site/p/vmeste-rf.png",ВМЕСТЕ:РФ (HD)
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://epgx.site/p/zvezda.png",Звезда (HD)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://epgx.site/p/mir.png",Мир (HD)
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 group-title="Общественные" tvg-logo="https://epgx.site/p/stv-by.png",CTV.BY (HD ready)
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/belarus2hd.png",Беларусь 2 (EDTV 576p)
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/domashny-int.png",Домашний Int (EDTV 576p)
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/subbota.png",Суббота (HD)
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/strk.png",СТРК (HD ready)
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png",Твоё ТВ (HD)
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://epgx.site/p/o2tv.png",О!2 (EDTV 576p)
+http://195.26.83.96:7006/play/1/index.m3u8
+#EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/vhs-ka.png",VHS-ка (HD)
+http://88.218.242.237:8000/play/a00x
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/discovery-channel.png",Discovery (HD)
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/animal-planet-eu.png",Animal Planet (HD)
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/idxtra.png",ID (HD)
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2768.png",Арсенал (HD)
+http://45.143.108.104/arsenal/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/v-mire-zhivotnyx.png",В мире животных (HD ready)
+https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/zhivaya-priroda.png",Живая Природа (HD)
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://epgx.site/p/nauka-20.png",Наука (HD)
+https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения" tvg-logo="http://epg.it999.ru/img2/2483.png",Дикая Охота (HD)
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения" tvg-logo="http://epg.it999.ru/img2/2484.png",Дикая Рыбалка (HD)
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения" tvg-logo="https://epgx.site/p/zagorodny-int.png",Загородный Int (HD)
+http://94.230.128.105:8080/Zagorodnyi/index.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения" tvg-logo="https://epgx.site/p/usadba.png",Усадьба (EDTV 576p)
+http://185.50.148.2:7703/PSIHOLOGIYA21/index.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci [720x576]
+http://109.171.45.109:81/udp/239.54.5.95:1234
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png",Discovery Channel [1920x1080]
+http://stream01.vnet.am/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery [1440x1080]
+http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Познавательный" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",TLC [1920x1080]
+http://ott.server-iptv.live/413/video.m3u8?token=M4f082ab4c
+
+
+
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" tvg-logo="https://antenna-dvb-t2.ru/IPTV-playlist-editor/N/A" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://iptvx.one/epg/epg.xml.gz</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/pervy.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://194.143.148.28:8080/PerviyHD/index.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="http://epg.one/img2/2265.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/rt-doc.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://hls.rt.com/hls/rtdru.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/rtvi.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://free-tv.me/iptv/src/s/secret_token/rtvi.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/tv-brics.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/belarus1hd.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://194.158.222.36:6101</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/belarus24.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="http://epg.it999.ru/img2/2294.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/bolshaya-azia.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/vmeste-rf.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/dumatv.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://dumatv.iptv2022.com/index.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/zvezda.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/krasnaya-linia.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/mir.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/mir24.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://91.207.115.228:12000/play/a00i</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/neizvestnaya-rosia.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/ntv.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://91.207.115.228:12000/play/a04b</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/otr.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/prnk-tv.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/5kanal-ru.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/ratnik.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="http://epg.one/img2/18.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://91.207.114.220:9001/play/a058/index.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/rentv.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://free-tv.me/iptv/src/s/secret_token/ren-tv-hd-orig.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/rentv-int.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://45.159.74.14:80/RenTv/index.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/rossia1.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/rossia1.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://91.90.255.235:8000/play/a00g/index.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/stv-by.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/tv3-ru.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://epgx.site/p/tvcentr.png" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8</font></font>
+#EXTINF:-1 group-title="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publications</font></font>" tvg-logo="https://smotret.tv/rtr-planeta" tvg-name="<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д<br><br></font></font>" ,<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Н/Д</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://smotret.tv/rtr-planeta</font></font>
