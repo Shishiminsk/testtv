@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://epg.it999.ru/ru2.xml.gz, http://epg.it999.ru/edem.xml.gz, https://iptvx.one/epg/epg.xml.gz" m3uautoload=1
-#EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый (HD)
+#EXTINF:-1 tvg-id="PerviyHD" tvg-logo="https://epgx.site/p/pervy.png" group-title="Общественные",Первый (HD)
 http://194.143.148.28:8080/PerviyHD/index.m3u8
 #EXTINF:-1 tvg-id="2265" tvg-logo="http://epg.one/img2/2265.png" group-title="Общественные",360° (HD)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
@@ -7,8 +7,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="ТВ Украины" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png",FREEДОМ [1280x720]
 http://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 group-title="УКРАИНА",Белсат HD
-https://m3u8.ott.blue/watch/149/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 ,Relax
