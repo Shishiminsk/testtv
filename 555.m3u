@@ -11,8 +11,8 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1 ,Relax
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,НТВ +1
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 ,Sochi 24 HD
