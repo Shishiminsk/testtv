@@ -13,8 +13,8 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 ,НТВ +1
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,RU TV
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 ,НТВ +2
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,Sochi 24 HD
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 ,TRK 555 (720p)
@@ -29,8 +29,8 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 ,Кинопремьера HD
-http://45.159.74.13/Kinopremera/index.m3u8
+#EXTINF:-1 ,НТВ +4
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 ,Мир 24 (1080p)
@@ -45,10 +45,10 @@ http://stream01.vnet.am/AmediaPremium/mono.m3u8
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ZMsyjSr.png",Viju TV1000
-http://82.209.197.187:8080/udp/239.0.100.141:1234
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Meak2y4.png",viju Русское кино
-http://82.209.197.187:8080/udp/239.0.100.82:1234
+#EXTINF:-1 ,НТВ +7
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/rzPQ9Iz.png",Беларусь 5 Интернет (1080p) [Not 24/7]
 https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум HD
