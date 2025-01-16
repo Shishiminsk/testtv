@@ -7,8 +7,8 @@ http://45.143.108.110:2203/RTVi
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Общественные",RTД (HD)
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="ТВ Украины" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png",FREEДОМ [1280x720]
-http://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1 ,НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 ,Relax
